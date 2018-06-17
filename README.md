@@ -3,6 +3,20 @@ ARMed is a series of ARM Cortex development boards that I'm currently designing.
 
 As I have collected quite a bunch of different development boards over time that are circulating out there in the wild, I'm also trying to cover some of these boards and / or some of their features if I see fit / need.
 
+### A brief overview
+
+###### ARMed
+<insert product description here>
+
+###### ARMed2
+<insert product description here>
+
+###### ARMed3
+<insert product description here>
+
+###### ARMed ATOM
+<insert product description here>
+
 ### What is the overall status of the project / planned additions?
 - [X] ARMed REV00
 - [X] ARMed REV01
